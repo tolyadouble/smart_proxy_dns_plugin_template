@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.version     = Proxy::Dns::PluginTemplate::VERSION
   s.date        = Date.today.to_s
   s.license     = 'GPL-3.0'
-  s.authors     = ['TODO: Your name']
-  s.email       = ['TODO: Your email']
+  s.authors     = 'test'
+  s.email       = 'test@test.test'
   s.homepage    = 'https://github.com/theforeman/smart_proxy_dns_plugin_template'
 
   s.summary     = "TODO DNS provider plugin for Foreman's smart proxy"
